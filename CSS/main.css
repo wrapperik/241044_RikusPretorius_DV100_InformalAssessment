@@ -1,0 +1,24 @@
+
+body {
+    background-color: black;
+    background-image: url("../ASSETS/IMAGES/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    margin: 40px;
+}
+
+#earthquakeData {
+    margin-top: 50px;
+}
+
+#earthquakeData h5 {
+    margin-bottom: 20px;
+    border-radius: 7px;
+    backdrop-filter: blur(20px);
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    width: fit-content;
+    padding: 20px
+}
+
